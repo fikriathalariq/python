@@ -1,2 +1,5 @@
-# Chicken_Body_Weight_Measurement_Based_Image_Processing
-Pada code ini akan dilakukan pengukuran berat badan ayam menggunakan citra luas ayam berdasarkan image-processing menggunakan detectron2.
+# Python
+<p>In this section, there are several python Code.</p>
+
+<li>Chicken_Body_Weight_Measurement_Based_Image_Processing</li>
+<li>K-Cross Validation</li>
